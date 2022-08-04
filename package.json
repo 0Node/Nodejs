@@ -1,0 +1,27 @@
+{
+  "name": "j",
+  "version": "1.0.0",
+  "description": "bcd",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bcdprojects/bcdbcdbcdhttpbcdbcdbcd.git"
+  },
+  "keywords": [
+    "CDcd1212121"
+  ],
+  "author": "Rachel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcdprojects/bcdbcdbcdhttpbcdbcdbcd/issues"
+  },
+  "homepage": "https://github.com/bcdprojects/bcdbcdbcdhttpbcdbcdbcd#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.19"
+  }
+}
